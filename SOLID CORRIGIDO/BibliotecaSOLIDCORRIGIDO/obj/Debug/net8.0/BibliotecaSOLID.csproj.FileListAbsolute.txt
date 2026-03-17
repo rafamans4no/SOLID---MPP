@@ -1,0 +1,14 @@
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\bin\Debug\net8.0\BibliotecaSOLID.exe
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\bin\Debug\net8.0\BibliotecaSOLID.deps.json
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\bin\Debug\net8.0\BibliotecaSOLID.runtimeconfig.json
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\bin\Debug\net8.0\BibliotecaSOLID.dll
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\bin\Debug\net8.0\BibliotecaSOLID.pdb
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\BibliotecaSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\BibliotecaSOLID.AssemblyInfoInputs.cache
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\BibliotecaSOLID.AssemblyInfo.cs
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\BibliotecaSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\BibliotecaSOLID.dll
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\refint\BibliotecaSOLID.dll
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\BibliotecaSOLID.pdb
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\BibliotecaSOLID.genruntimeconfig.cache
+C:\Users\Windows\Downloads\BibliotecaSOLIDCORRIGIDO\BibliotecaSOLIDCORRIGIDO\obj\Debug\net8.0\ref\BibliotecaSOLID.dll
